@@ -1,6 +1,10 @@
 {
-  "last_date": null,
-  "sent_dates": [],
-  "pages": {},
-  "last_sent": null
+  "last_date": "2026-10-23",
+  "sent_dates": [
+    "2026-10-23"
+  ],
+  "pages": {
+    "2026-10-23": "https://telegra.ph/科技熱點日報--2026-10-23-10-23"
+  },
+  "last_sent": "2026-10-23"
 }
