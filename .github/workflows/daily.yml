@@ -2,7 +2,7 @@ name: daily
 
 on:
   schedule:
-    - cron: "37 0 * * *" # 08:37（台北）主發
+    - cron: "15 0 * * *" # 08:15（台北）主發
     - cron: "7 13 * * *" # 21:07（台北）補發；今天已發過則無動作
   workflow_dispatch:
     inputs:
